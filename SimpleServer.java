@@ -13,7 +13,7 @@ public class SimpleServer {
                     writer.println("HTTP/1.1 200 OK");
                     writer.println("Content-Type: text/plain; charset=UTF-8");
                     writer.println();
-                    writer.println("¡Hola, este es un servidor HTTP simple en Java!");
+                    writer.println("¡Hola, este es un servidor HTTP actualizado en Java!");
                 }
             }
         } catch (IOException e) {
